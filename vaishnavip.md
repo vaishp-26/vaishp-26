@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @vaishp-26
+- 👋 Hi, I’m  Vaishnavi Paymode (@vaishp-26)
 - 👀 I’m interested in AWS and DevOps
 - 🌱 I’m currently working at paarsh infotech.
 - 💞️ I’m looking forward for more jobs on AWS
 - 📫 How to reach me - vaishnavipaymode2@gmail.com
-- 😄 Pronouns: Cloud Devloper
+- 😄 Skills - linux,AWS,DevOps,MySql,etc.
+- 
 
 
 <!---

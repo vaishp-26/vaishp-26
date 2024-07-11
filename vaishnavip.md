@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward for more jobs on AWS
 - 📫 How to reach me - vaishnavipaymode2@gmail.com
 - 😄 Skills - linux,AWS,DevOps,MySql,etc.
-- 
+  
 
 
 <!---
